@@ -15,7 +15,7 @@ function sleep(ms) {
             align: 'left',
             gradient: ['red', 'magenta']
         })
-        await sleep(3000);
+        await sleep(2500);
         console.clear()
         console.log(`${chalk.yellow(`Since Script 2022 - 5 - 21`)}`)
 console.log(`${chalk.white(`
